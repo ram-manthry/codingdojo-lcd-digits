@@ -13,3 +13,9 @@ pipe characters for each digit. Each digit is shown below
     |.| ..| ._| ._| |_| |_. |_. ..| |_| |_|
     |_| ..| |_. ._| ..| ._| |_| ..| |_| ..|
         
+
+Example: 910
+
+    ._. ... ._. 
+    |_| ..| |.| 
+    ..| ..| |_| 
